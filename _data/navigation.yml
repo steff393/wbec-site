@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: Rechenbeispiel
+  link: /pvladen.html
+- name: Impressum
+  link: /impressum.html
+- name: Datenschutz
+  link: /datenschutz.html
+- name: Widerruf
+  link: /widerruf.html

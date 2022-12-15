@@ -1,0 +1,7 @@
+title: wbec
+description: WLAN für die Heidelberg Energy Control Wallbox
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+markdown: gfm
+logo: assets/images/wbecLogo.png
