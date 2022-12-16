@@ -50,7 +50,7 @@
       <footer>
         <nav>
           {% for item in site.data.navigation %}
-            <a href="{{ item.link }}" {% if page.url == item.link %}class="currentPage"{% endif %}>
+            <a href="/wbec-site{{ item.link }}" {% if page.url == item.link %}class="currentPage"{% endif %}>
               {{ item.name }} <br>
             </a>
           {% endfor %}
