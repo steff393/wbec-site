@@ -34,7 +34,6 @@ Die Spannungsversorgung erfolgt per USB (Handyladegerät o.ä. erforderlich). Al
 |Spannungsversorgung          | 12V (9-24V)    | 5V USB (ggf. 12V)      |
 |Abmessungen (BxTxH)          | 58 x 24 x 12mm | 58 x 58 x 42mm (zzgl. Befestigungslaschen und Kabel) |
 |Gehäuse im Lieferumfang      | nein           | integriert             |
-|Befestigung an Wallbox       | separates Gehäuse erforderlich | z.B. magnetisch |
 |Angebot                      |[anfordern](mailto:wbec393@gmail.com?subject=Angebotsanfrage%20wbecPro&body=Hallo%20steff393,%0D%0A%0D%0Aich%20interessiere%20mich%20für%20wbecPro.%20Bitte%20sende%20mir%20ein%20Angebot%20zu.%0D%0Aggf.%20weitere%20Infos...)|[anfordern](mailto:wbec393@gmail.com?subject=Angebotsanfrage%20wbecPremium&body=Hallo%20steff393,%0D%0A%0D%0Aich%20interessiere%20mich%20für%20wbecPremium.%20Bitte%20sende%20mir%20ein%20Angebot%20zu.%0D%0Aggf.%20weitere%20Infos...)|
 
 ## Bezugsquelle
