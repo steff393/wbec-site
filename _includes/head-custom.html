@@ -1,0 +1,27 @@
+<!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+{% include head-custom-google-analytics.html %}
+
+<!-- You can set your favicon here -->
+<link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
+
+<script>
+	(function(d, s, id, w, f){
+			w[f] = w[f] || function() {
+					(w[f].q = w[f].q || []).push(arguments)
+			};
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)){ return; }
+			js = d.createElement(s); js.id = id;
+			js.onload = function(){
+					// remote script has loaded
+			};
+			js.async = true;
+			js.src = "https://cdn.trackboxx.info/p/tracker.js";
+			fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'trackboxx-script', window, 'trackboxx'));
+	trackboxx('set', 'siteId', 'TB-26629526');
+	trackboxx('trackPageview');
+</script>
+<!-- end custom head snippets -->
