@@ -1,0 +1,12 @@
+<div class="text-small text-grey-dk-100 mb-0">
+	<div class="footer-external-links">
+		<ul>
+			{% for footer_legal_link in site.footer_legal_links %}
+			<li class="footer-legal-link">
+				<a href="{{ site.url }}{{ footer_legal_link.url }}">{{ footer_legal_link.label }}</a>
+			</li>
+			{% endfor %}
+		</ul>
+	</div>
+
+</div>

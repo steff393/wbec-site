@@ -1,0 +1,36 @@
+title: wbec
+description: WLAN für die Heidelberg Energy Control Wallbox
+theme: just-the-docs
+
+#url: https://steff393.github.io/wbec-site/
+url: http://192.168.178.76/
+
+aux_links:
+  "wbec on Github": https://github.com/steff393/wbec
+aux_links_new_tab: true
+
+color_scheme: wbec-scheme
+
+logo: /assets/images/wbecLogo.png
+favicon_ico: /assets/images/favicon.ico
+
+footer_legal_links:
+  - label: Home
+    url: /index.html
+  - label: Bestellung/Preise
+    url: /docs/bestellung.html
+  - label: Impressum
+    url: /docs/impressum.html
+  - label: Datenschutz
+    url: /docs/datenschutz.html
+  - label: Widerruf
+    url: /docs/widerruf.html
+
+imgUrl: /assets/images/
+imgSize: 500
+
+callouts:
+  note:
+    color: blue
+  warning:
+    color: red
