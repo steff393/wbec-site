@@ -1,9 +1,8 @@
 title: wbec
 description: WLAN für die Heidelberg Energy Control Wallbox
-theme: just-the-docs
+remote-theme: just-the-docs
 
-#url: https://steff393.github.io/wbec-site/
-url: http://192.168.178.76/
+url: https://steff393.github.io/wbec-site/
 
 aux_links:
   "wbec on Github": https://github.com/steff393/wbec
