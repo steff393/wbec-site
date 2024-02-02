@@ -8,9 +8,9 @@ nav_order: 4
 
 ### Januar 2024: wbecConnect
 Auch die neuen "connect"-Modelle von Heidelberg Amperfied können jetzt via Modbus-TCP mit wbec betrieben werden => wbecConnect  
-<a target="_blank" href="https://amzn.to/3tBs9VW">Wallbox connect.home</a> <small>([Affiliate-Link **](faq.html))</small>  
-<a target="_blank" href="https://amzn.to/4aFf2DS">Wallbox connect.business</a> <small>([Affiliate-Link **](faq.html))</small>  
-<a target="_blank" href="https://amzn.to/48e4zO4">Wallbox connect.solar</a> <small>([Affiliate-Link **](faq.html))</small>  
+Wallbox connect.home  
+Wallbox connect.business  
+Wallbox connect.solar  
 
 Sprecht mich einfach an: [wbec393@gmail.com](mailto:wbec393@gmail.com)
 <br><br>

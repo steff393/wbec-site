@@ -14,10 +14,6 @@ nav_order: 6
 > Die Homepage sollte so sein wie wbec: Einfach!  
 > Ohne Zusätze und unnötigen Schnickschnack. Nervenschonend.  
 > Die Homepage verzichtet daher sowohl auf die Nutzung von Cookies als auch auf individuelles Werbetracking. Anonym gezählt werden nur Besucherzahlen und typische Browserdaten. Eine Wiedererkennung findet nicht statt.
-> 
-> ** **Affiliate-Links / Werbelinks**  
-> Ich verwende jedoch an einigen Stellen externe ([Affiliate-Links **](faq.html)). Als Amazon-Partner verdiene ich an qualifizierten Verkäufen.
-> Solche Links führt euch zur Webseite von Amazon. Durch den Klick willigt ihr ein, auf die Webseite von Amazon weitergeleitet zu werden.
 
 
 {: .note}
@@ -48,10 +44,6 @@ nav_order: 6
 > Die o.g. Buchsenleisten sind hier *nicht* zugänglich.
 >
 > Für **wbecPremium** wird ein 5V-USB-Netzteil benötigt (z.B. ein altes Handyladegerät).  
->
-> **Empfehlungen**:  
-> <a target="_blank" href="https://amzn.to/47dMnCR">Netzteil 12V DC</a> <small>([Affiliate-Link **](faq.html))</small> für wbecPro/wbecLan  
-> <a target="_blank" href="https://amzn.to/3RK2Zwe">Netzteil 5V USB</a> <small>([Affiliate-Link **](faq.html))</small> für wbecPremium
 
 
 {: .note}
@@ -63,9 +55,7 @@ nav_order: 6
 {: .note}
 > **Wie kann ich die RFID-Funktion umsetzen?**
 >
-> RFID ist nur mit wbecPro möglich. Benötigt wird ein
-> <a target="_blank" href="https://amzn.to/3H1H2E1">RC522-RFID-Leser</a> <small>([Affiliate-Link **](faq.html))</small>.
-> Dieser kann mit Jumper-Kabeln an der Unterseite des wbecPro angeschlossen werden.  
+> RFID ist nur mit wbecPro möglich. Benötigt wird ein RC522-RFID-Leser. Dieser kann mit Jumper-Kabeln an der Unterseite des wbecPro angeschlossen werden.  
 > Weitere Infos zur Einrichtung sind auch im [Wiki](https://github.com/steff393/wbec/wiki/RFID-Card-support){:target="_blank"} zu finden.  
 
 
