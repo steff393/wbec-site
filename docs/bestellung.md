@@ -14,12 +14,15 @@ Jedes Modul ist fertig programmiert und wurde an der Heidelberg Energy Control e
 
 |Produkt |Preis (inkl. MwSt & Versand) |Verfügbarkeit |
 |:-------|:----------------------------|:-------------|
-|[wbecDemo](products\wbecDemo.html) (Testzeitraum bis 28.02.2024) <br>Günstiges Einstiegsmodell mit begrenzter Laufzeit | **20 Euro** | *(auf Lager)* |
+|[wbecDemo](products\wbecDemo.html) (Testzeitraum bis 31.03.2024) <br>Günstiges Einstiegsmodell mit begrenzter Laufzeit | **20 Euro** | *(auf Lager)* |
 |[wbecPro](products\wbecPro.html) <br>Standardversion mit WLAN                              | **120 Euro** | *(auf Lager)* |
-|[wbecLan](products\wbecLan.html) <br>Plug & Play mit Netzwerkanschluss                     | **190 Euro** | *(auf Lager)* |
-|[wbecPremium](products\wbecPremium.html) <br>Einfache Bedienung per Touch-Display und WLAN | **230 Euro** | *(auf Lager)* |
+|[wbecLan](products\wbecLan.html) <br>Plug & Play mit Netzwerkanschluss                     | **190 Euro** | *(nur noch 4 vorrätig)* |
+|[wbecPremium](products\wbecPremium.html) <br>Einfache Bedienung per Touch-Display und WLAN | **230 Euro** | *(nur noch 2 vorrätig)* |
 
 ## Bestellablauf - Schnellbestellung
+{: .warning}
+> Zwischen 11.02.23 bis 13.02.23 ist kein Versand möglich.
+
 Falls ihr keine weiteren Fragen habt, könnt ihr euer wbec auch schnell und direkt bestellen:
 - Sendet mir den entsprechenden Betrag per Paypal Freunde an [https://paypal.me/steff393](https://paypal.me/steff393){:target="_blank"}
 - Nennt im Betreff euer Produkt, eure Adresse und eure E-Mail (Paypal zeigt mir diese sonst nicht an):
