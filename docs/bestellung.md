@@ -20,9 +20,6 @@ Jedes Modul ist fertig programmiert und wurde an der Heidelberg Energy Control e
 |[wbecPremium](products\wbecPremium.html) <br>Einfache Bedienung per Touch-Display und WLAN | **230 Euro** | *(nur noch 2 vorrätig)* |
 
 ## Bestellablauf - Schnellbestellung
-{: .warning}
-> Zwischen 11.02.23 bis 13.02.23 ist kein Versand möglich.
-
 Falls ihr keine weiteren Fragen habt, könnt ihr euer wbec auch schnell und direkt bestellen:
 - Sendet mir den entsprechenden Betrag per Paypal Freunde an [https://paypal.me/steff393](https://paypal.me/steff393){:target="_blank"}
 - Nennt im Betreff euer Produkt, eure Adresse und eure E-Mail (Paypal zeigt mir diese sonst nicht an):
@@ -35,7 +32,7 @@ Falls ihr keine weiteren Fragen habt, könnt ihr euer wbec auch schnell und dire
 - Falls mein Lagerbestand zu niedrig ist oder ich abwesend wäre, würde dies oben entsprechend vermerkt sein. 
 
 ## Alternative Bezahlungsmethoden
-Alternativ könnt ihr mich auch gerne über [wbec393@gmail.com](mailto:wbec393@gmail.com) kontaktieren und per Überweisung bezahlen. Wenn ihr den Paypal Käuferschutz nutzen möchtet ("Waren und Dienstleistungen"), dann erhöht den Betrag entsprechend um die Paypal-Gebühren (0,35€ + 2,49% => wbecDemo: 20,85€; wbecPro: 123,34€; wbecLan: 195,09€; wbecPremium: 236,08€).  
+Alternativ könnt ihr mich auch gerne über [wbec393@gmail.com](mailto:wbec393@gmail.com) kontaktieren und per Überweisung bezahlen. Wenn ihr den Paypal Käuferschutz nutzen möchtet ("Waren und Dienstleistungen"), dann erhöht den Betrag entsprechend um die Paypal-Gebühren (0,35€ + 2,49% => wbecDemo: 20,86€; wbecPro: 123,41€; wbecLan: 195,20€; wbecPremium: 236,22€).  
 
 <br>
 
