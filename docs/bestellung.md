@@ -16,8 +16,8 @@ Jedes Modul ist fertig programmiert und wurde an der Heidelberg Energy Control e
 |:-------|:----------------------------|:-------------|
 |[wbecDemo](products\wbecDemo.html) (Testzeitraum bis 31.03.2024) <br>Günstiges Einstiegsmodell mit begrenzter Laufzeit | **20 Euro** | *(auf Lager)* |
 |[wbecPro](products\wbecPro.html) <br>Standardversion mit WLAN                              | **120 Euro** | *(auf Lager)* |
-|[wbecLan](products\wbecLan.html) <br>Plug & Play mit Netzwerkanschluss                     | **190 Euro** | *(nur noch 4 vorrätig)* * |
-|[wbecPremium](products\wbecPremium.html) <br>Einfache Bedienung per Touch-Display und WLAN | **230 Euro** | *(nur noch 2 vorrätig)* |
+|[wbecLan](products\wbecLan.html) <br>Plug & Play mit Netzwerkanschluss                     | **190 Euro** | *(nur noch 3 vorrätig)* * |
+|[wbecPremium](products\wbecPremium.html) <br>Einfache Bedienung per Touch-Display und WLAN | **230 Euro** | *(nur noch 1 vorrätig)* |
 
 *) Da das zugrundeliegende Bauteil leider eingestellt wurde ist wbecLan nach Abverkauf des o.g. Lagerbestandes nicht mehr lieferbar!  
 
