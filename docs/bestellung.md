@@ -41,5 +41,5 @@ Alternativ könnt ihr mich auch gerne über [wbec393@gmail.com](mailto:wbec393@g
 {: .warning-title}
 > Achtung
 > 
-> Bei Anzeigen auf kleinanzeigen.de kann es sich um **wbecDemo-Geräte** handeln! Mir sind mehrere Fälle bekannt, in dem ein wbecDemo als "wbecPro (neu)" angeboten wurde. Solche Geräte können nach Ablauf des Testzeitraums nicht mehr mit der Wallbox kommunizieren, sie verhalten sich ansonsten jedoch erstmal normal.    
+> Bei Anzeigen auf kleinanzeigen.de kann es sich um **wbecDemo-Geräte** handeln! Mir sind mehrere Fälle bekannt, in denen ein wbecDemo als "wbecPro (neu)" angeboten wurde. Solche Geräte können nach Ablauf des Testzeitraums nicht mehr mit der Wallbox kommunizieren, sie verhalten sich ansonsten jedoch erstmal normal.    
 > Ihr könnt mich gerne vor einem Kauf kontaktieren, dann helfe ich, die Echtheit zu überprüfen.  

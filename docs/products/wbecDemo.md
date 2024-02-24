@@ -17,5 +17,5 @@ Für die Aufrüstung auf wbecLan ist ein Zusatzadapter nötig. Ein wbecDemo auf 
 {: .warning-title}
 > Achtung
 > 
-> Bei Anzeigen auf kleinanzeigen.de kann es sich um **wbecDemo-Geräte** handeln! Mir sind mehrere Fälle bekannt, in dem ein wbecDemo als "wbecPro (neu)" angeboten wurde. Solche Geräte können nach Ablauf des Testzeitraums nicht mehr mit der Wallbox kommunizieren, sie verhalten sich ansonsten jedoch erstmal normal.    
+> Bei Anzeigen auf kleinanzeigen.de kann es sich um **wbecDemo-Geräte** handeln! Mir sind mehrere Fälle bekannt, in denen ein wbecDemo als "wbecPro (neu)" angeboten wurde. Solche Geräte können nach Ablauf des Testzeitraums nicht mehr mit der Wallbox kommunizieren, sie verhalten sich ansonsten jedoch erstmal normal.    
 > Ihr könnt mich gerne vor einem Kauf kontaktieren, dann helfe ich, die Echtheit zu überprüfen.  
