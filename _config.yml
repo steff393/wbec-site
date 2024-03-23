@@ -33,3 +33,5 @@ callouts:
     color: blue
   warning:
     color: red
+  new:
+    color: green
