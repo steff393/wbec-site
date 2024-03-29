@@ -4,7 +4,7 @@ title: Häufige Fragen
 nav_order: 6
 ---
 
-## Frequently Asked Questions
+## Häufige Fragen
 
 <br>
 

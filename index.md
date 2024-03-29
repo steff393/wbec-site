@@ -21,8 +21,8 @@ Der Wallbox-Hersteller Heidelberg (jetzt Amperfied) empfiehlt wbec sogar im Blog
 {: .new }
 > **Coming soon: §14a EnWG**  
 >
-> Mittels wbec kann die Heidelberg Energy Control künftig konform zu §14a EnWG betrieben werden. Dies ermöglicht eine Reduzierung des Netzentgelts um ca. 150 Euro jährlich, je nach Netzbetreiber. Details folgen ...  
-> Schreibt mich gerne dazu an.  
+> Mittels wbec kann die Heidelberg Energy Control künftig konform zu [§14a EnWG](docs/enwg.html) betrieben werden. Dies ermöglicht eine Reduzierung des Netzentgelts um ca. 150 Euro jährlich, je nach Netzbetreiber. Die Funktion wird ab Version 1.5.2 (bzw. 2.5.2) aktiviert werden können. Details s. [hier](docs/enwg.html).  
+> Schreibt mich gerne bei Interesse an.  
 
 ## Benutzeroberfläche
 Für wbec ist keine spezielle App erforderlich. Das Webinterface kann mit jedem Browser am PC, Smartphone, Tablet aufgerufen werden und zeigt die wichtigsten Infos und Einstellmöglichkeiten übersichtlich an. Der Ladestrom kann einfach per Schieberegler begrenzt werden.  
