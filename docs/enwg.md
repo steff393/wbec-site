@@ -24,7 +24,7 @@ Das Steuersignal des Netzbetreibers kommt über einen Rundsteuerempfänger (RSE)
 
 Der RSE besitzt einen Schaltkontakt, der je nach Steuersignal entweder offen oder geschlossen ist. Mit diesem Schaltkontakt ist es möglich, zwei Eingänge von [wbecPro](products\wbecPro.html) miteinander zu verbinden. Dadurch erkennt wbecPro, ob eine Reduzierung der Ladeleistung erforderlich ist oder nicht.  
 
-[wbecLan](products\wbecLan.html) und [wbecPremium](products\wbecPremium.html) bieten diese Eingänge **nicht**. Über das Modul wbecRse ist es dennoch möglich, das Signal per WLAN/LAN an wbecLan und wbecPremium oder auch ein weiter entferntes [wbecPro](products\wbecPro.html) zu übertragen.  
+[wbecLan](products\wbecLan.html) und [wbecPremium](products\wbecPremium.html) bieten diese Eingänge **nicht**. Über das Modul [wbecRse](products\wbecRse.html) ist es dennoch möglich, das Signal per WLAN/LAN an wbecLan und wbecPremium oder auch ein weiter entferntes [wbecPro](products\wbecPro.html) zu übertragen.  
 
 wbec sorgt im Falle einer entsprechenden Anforderung dafür, dass die Ladeleistung der angeschlossenen Wallboxen einen Wert von 4,2kW nicht übersteigt. Konkret bedeutet das, dass eine 1-phasig angeschlossene Wallbox mit 16A (3,7kW) laden kann oder eine 3-phasig anschlossene Wallbox mit 6A (4,1kW). Die Ladeleistung weiterer Wallboxen wird auf 0 reduziert.
 Nach Beendigung des Steuereingriffs stellt wbec automatisch wieder den vorherigen Strom her.  
