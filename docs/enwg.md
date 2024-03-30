@@ -22,9 +22,9 @@ Ab dem 1. Januar 2024 installierte Wallboxen müssen daher zwingend durch den Ne
 ### Technische Umsetzung
 Das Steuersignal des Netzbetreibers kommt über einen Rundsteuerempfänger (RSE) im Zählerschrank an. Der RSE wird durch den Netzbetreiber installiert, sobald man den Wechsel in das neue Modell beantragt hat. Wichtig ist hierbei, die Variante **"Direktsteuerung"** zu wählen. Ggf. muss durch einen Elektroinstallateur zudem ein Trennrelais verbaut werden.  
 
-Der RSE besitzt einen Schaltkontakt, der je nach Steuersignal entweder offen oder geschlossen ist. Mit diesem Schaltkontakt ist es möglich, zwei Eingänge von [wbecPro](products\wbecPro.html) miteinander zu verbinden. Dadurch erkennt wbecPro, ob eine Reduzierung der Ladeleistung erforderlich ist oder nicht.  
+Der RSE besitzt einen Schaltkontakt, der je nach Steuersignal entweder offen oder geschlossen ist. Mit diesem Schaltkontakt ist es möglich, zwei Eingänge von [wbecPro](products\wbecPro.html) (oder auch [wbecPremium](products\wbecPremium.html)) miteinander zu verbinden. Dadurch erkennt wbec, ob eine Reduzierung der Ladeleistung erforderlich ist oder nicht.  
 
-[wbecLan](products\wbecLan.html) und [wbecPremium](products\wbecPremium.html) bieten diese Eingänge **nicht**. Über das Modul [wbecRse](products\wbecRse.html) ist es dennoch möglich, das Signal per WLAN/LAN an wbecLan und wbecPremium oder auch ein weiter entferntes [wbecPro](products\wbecPro.html) zu übertragen.  
+[wbecLan](products\wbecLan.html) bietet diese Eingänge **nicht**. Über das Modul [wbecRse](products\wbecRse.html) ist es dennoch möglich, das Signal per WLAN/LAN an wbecLan oder auch ein weiter entferntes [wbecPro](products\wbecPro.html)/[wbecPremium](products\wbecPremium.html) zu übertragen.  
 
 wbec sorgt im Falle einer entsprechenden Anforderung dafür, dass die Ladeleistung der angeschlossenen Wallboxen einen Wert von 4,2kW nicht übersteigt. Konkret bedeutet das, dass eine 1-phasig angeschlossene Wallbox mit 16A (3,7kW) laden kann oder eine 3-phasig anschlossene Wallbox mit 6A (4,1kW). Die Ladeleistung weiterer Wallboxen wird auf 0 reduziert.
 Nach Beendigung des Steuereingriffs stellt wbec automatisch wieder den vorherigen Strom her.  
@@ -42,7 +42,7 @@ Nach Beendigung des Steuereingriffs stellt wbec automatisch wieder den vorherige
 {: .note}
 > **Ich habe schon ein wbec und eine Heidelberg Energy Control. Was brauche ich noch um in das neue Modell zu wechseln?**
 >
-> - Das wbec muss ein wbecPro sein. Bei wbecLan und wbecPremium ist zusätzlich ein wbecRse erforderlich.  
+> - Das wbec muss ein wbecPro oder wbecPremium sein. Bei wbecLan ist zusätzlich ein wbecRse erforderlich.  
 > - Den EnWG-Aktivierungsschlüssel kannst du [hier bestellen](docs/bestellung.html).  
 > - Kläre mit deinem Elektroinstallateur, ob/welche Umbauten am Zählerschrank erforderlich sind.  
 > - Du musst bei deinem Netzbetreiber den Wechsel in das neue Modell (Modul 1, Direktsteuerung) beantragen. Eine Rückkehr ins alte Modell ist nicht mehr möglich.   
