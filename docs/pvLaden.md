@@ -38,6 +38,7 @@ Weitere Informationen finden sich auch im [Wiki](https://github.com/steff393/wbe
 - SMA Sunny Home Manager 2.0 (z.B. mit Sunny Tripower 8.0 Smart Energy)
 - Victron (z.B. Victron cerbo gx (inkl. Smartmeter Victron EM24 RS485, Wechselrichter Multiplus2 5000), Victron Easy Control GX)
 - E3DC
+- SAX-Power Heimspeicher (mit EnFluRi-Sensor)
 
 ### Smartmeter
 - Shelly 3EM
