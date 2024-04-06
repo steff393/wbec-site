@@ -19,9 +19,9 @@ Dadurch lassen sich oftmals jährliche Einsparungen von [300 Euro](docs/pvCalc.h
 Der Wallbox-Hersteller Heidelberg (jetzt Amperfied) empfiehlt wbec sogar im Blog [Clever laden](https://www.amperfied.de/de/clever-laden/blog/wbec-fuer-heidelberg-wallbox-energy-control-blog/){:target="_blank"}.
 
 {: .new }
-> **Coming soon: §14a EnWG**  
+> **NEU: §14a EnWG**  
 >
-> Mittels wbec kann die Heidelberg Energy Control künftig konform zu [§14a EnWG](docs/enwg.html) betrieben werden. Dies ermöglicht eine Reduzierung des Netzentgelts um ca. 150 Euro jährlich, je nach Netzbetreiber. Die Funktion wird ab Version 1.5.2 (bzw. 2.5.2) aktiviert werden können. Details s. [hier](docs/enwg.html).  
+> Mittels wbec kann die Heidelberg Energy Control nun konform zu [§14a EnWG](docs/enwg.html) betrieben werden. Dies ermöglicht eine Reduzierung des Netzentgelts um ca. 150 Euro jährlich, je nach Netzbetreiber. Die Funktion ist ab Version 1.5.2 (bzw. 2.5.2) aktivierbar. Details s. [hier](docs/enwg.html).  
 > Schreibt mich gerne bei Interesse an.  
 
 ## Benutzeroberfläche

@@ -6,6 +6,15 @@ nav_order: 4
 
 ## Neue Funktionen
 
+### April 2024: 
+Mit der neuen Version x.5.2 ist nun die "[§14a EnWG Konformität](https://steff393.github.io/wbec-site/docs/enwg.html)" aktivierbar. Hiermit lassen sich attraktive Rabatte auf die Netzentgelte erzielen.   
+<br><br>
+
+### März 2024: SAX Heimspeicher + Victron
+Der SAX Heimspeicher kann nun ausgelesen werden und für das PV-Überschussladen genutzt werden. Genutzt werden Bezug/Einspeisung sowie die Batterieleistung.  
+Bei Victron-Systemen kann nun ebenfalls die Batterieleistung berücksichtigt werden.  
+<br><br>
+
 ### Januar 2024: wbecConnect
 Auch die neuen "connect"-Modelle von Heidelberg Amperfied können jetzt via Modbus-TCP mit wbec betrieben werden => wbecConnect  
 Wallbox connect.home  
