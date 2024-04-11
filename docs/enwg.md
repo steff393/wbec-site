@@ -29,7 +29,7 @@ Der RSE besitzt einen Schaltkontakt, der je nach Steuersignal entweder offen ode
 wbec sorgt im Falle einer entsprechenden Anforderung dafür, dass die Ladeleistung der angeschlossenen Wallboxen einen Wert von 4,2kW nicht übersteigt. Konkret bedeutet das, dass eine 1-phasig angeschlossene Wallbox mit 16A (3,7kW) laden kann oder eine 3-phasig anschlossene Wallbox mit 6A (4,1kW). Die Ladeleistung weiterer Wallboxen wird auf 0 reduziert.
 Nach Beendigung des Steuereingriffs stellt wbec automatisch wieder den vorherigen Strom her.  
 
-*) Die Funktion muss in wbecPro, wbecLan und wbecPremium freigeschalten werden. Hierfür ist ein entsprechender [Aktivierungsschlüssel](docs/bestellung.html) erforderlich. 
+*) Die Funktion muss in wbecPro, wbecLan und wbecPremium freigeschalten werden. Hierfür ist ein entsprechender [Aktivierungsschlüssel](bestellung.html) erforderlich. 
 
 ### Häufige Fragen
 
@@ -43,7 +43,7 @@ Nach Beendigung des Steuereingriffs stellt wbec automatisch wieder den vorherige
 > **Ich habe schon ein wbec und eine Heidelberg Energy Control. Was brauche ich noch um in das neue Modell zu wechseln?**
 >
 > - Das wbec muss ein wbecPro oder wbecPremium sein. Bei wbecLan ist zusätzlich ein wbecRse erforderlich.  
-> - Den EnWG-Aktivierungsschlüssel kannst du [hier bestellen](docs/bestellung.html).  
+> - Den EnWG-Aktivierungsschlüssel kannst du [hier bestellen](bestellung.html).  
 > - Kläre mit deinem Elektroinstallateur, ob/welche Umbauten am Zählerschrank erforderlich sind.  
 > - Du musst bei deinem Netzbetreiber den Wechsel in das neue Modell (Modul 1, Direktsteuerung) beantragen. Eine Rückkehr ins alte Modell ist nicht mehr möglich.   
 
