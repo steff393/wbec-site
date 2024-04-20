@@ -39,10 +39,12 @@ Weitere Informationen finden sich auch im [Wiki](https://github.com/steff393/wbe
 - Victron (z.B. Victron cerbo gx (inkl. Smartmeter Victron EM24 RS485, Wechselrichter Multiplus2 5000), Victron Easy Control GX)
 - E3DC
 - SAX-Power Heimspeicher (mit EnFluRi-Sensor)
+- Goodwe mit Smartmeter und WiFi/LAN-Kit v2 (z.B. GW10KN-ET)
 
-### Smartmeter
+### Smartmeter (oder Speicher) per HTTP
 - Shelly 3EM
 - Shelly 3EM Pro
+- sonnenBatterie  (z.B. Eco 8.0)
 - powerfox poweropti
 - IR-Leseköpfe für Stromzähler (z.B. Tasmota, Bitshake, o.ä.)
 
