@@ -14,9 +14,9 @@ Jedes Modul ist fertig programmiert und wurde an der Heidelberg Energy Control e
 
 |Produkt |Preis (inkl. MwSt & Versand) |Verfügbarkeit |
 |:-------|:----------------------------|:-------------|
-|[wbecDemo](products\wbecDemo.html) (Testzeitraum bis 31.05.2024) <br>Günstiges Einstiegsmodell mit begrenzter Laufzeit | **20 Euro** | *wieder lieferbar ab 24.04.2024* |
-|[wbecPro](products\wbecPro.html) <br>Standardversion mit WLAN                              | **120 Euro** | *wieder lieferbar ab 24.04.2024* |
-|[wbecLan](products\wbecLan.html) <br>Plug & Play mit Netzwerkanschluss                     | **190 Euro** | *wieder lieferbar ab 24.04.2024* |
+|[wbecDemo](products\wbecDemo.html) (Testzeitraum bis 31.05.2024) <br>Günstiges Einstiegsmodell mit begrenzter Laufzeit | **20 Euro** | *auf Lager* |
+|[wbecPro](products\wbecPro.html) <br>Standardversion mit WLAN                              | **120 Euro** | *auf Lager* |
+|[wbecLan](products\wbecLan.html) <br>Plug & Play mit Netzwerkanschluss                     | **190 Euro** | *auf Lager* |
 |[wbecPremium](products\wbecPremium.html) <br>Einfache Bedienung per Touch-Display und WLAN | **230 Euro** | *nur noch 1 vorrätig* |
 |[$14a EnWG](enwg.html) <br>Aktivierung der Funktion | **50 Euro** | *verfügbar* |
 |[wbecRse](products\wbecRse.html) <br>Übermittelt das Signal des Rundsteuerempfängers (RSE) per WLAN an wbec | **20 Euro** | *auf Lager* |
