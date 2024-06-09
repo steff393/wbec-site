@@ -34,7 +34,7 @@ Falls ihr keine weiteren Fragen habt, könnt ihr euer wbec auch schnell und dire
 - Falls mein Lagerbestand zu niedrig ist oder ich abwesend wäre, würde dies oben entsprechend vermerkt sein. 
 
 ## Alternative Bezahlungsmethoden
-Alternativ könnt ihr mich auch gerne über [wbec393@gmail.com](mailto:wbec393@gmail.com) kontaktieren und per Überweisung bezahlen. Wenn ihr den Paypal Käuferschutz nutzen möchtet ("Waren und Dienstleistungen"), dann erhöht den Betrag entsprechend um die Paypal-Gebühren (0,35€ + 2,49% => wbecDemo: 20,86€; wbecPro: 123,42€; wbecLan: 195,20€; wbecPremium: 236,23€).  
+Alternativ könnt ihr mich auch gerne über [wbec393@gmail.com](mailto:wbec393@gmail.com) kontaktieren und per Überweisung bezahlen. Wenn ihr den Paypal Käuferschutz nutzen möchtet ("Waren und Dienstleistungen"), dann erhöht den Betrag entsprechend um die Paypal-Gebühren (0,35€ + 2,49% => wbecDemo/wbecRse: 20,86€; wbecPro: 123,42€; wbecLan: 195,21€; wbecPremium: 236,23€).  
 
 <br>
 
