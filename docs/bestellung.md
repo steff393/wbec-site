@@ -21,11 +21,6 @@ Jedes Modul ist fertig programmiert und wurde an der Heidelberg Energy Control e
 |[$14a EnWG](enwg.html) <br>Aktivierung der Funktion | **50 Euro** | *verfügbar* |
 |[wbecRse](products\wbecRse.html) <br>Übermittelt das Signal des Rundsteuerempfängers (RSE) per WLAN an wbec | **20 Euro** | *auf Lager* |
 
-{: .warning-title}
-> Achtung
-> 
-> Versand ist derzeit erst wieder ab dem 13.08.2024 möglich. 
-
 ## Bestellablauf - Schnellbestellung
 Falls ihr keine weiteren Fragen habt, könnt ihr euer wbec auch schnell und direkt bestellen:
 - Sendet mir den entsprechenden Betrag per Paypal Freunde an [https://paypal.me/steff393](https://paypal.me/steff393){:target="_blank"}
