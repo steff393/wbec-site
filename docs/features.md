@@ -6,7 +6,11 @@ nav_order: 4
 
 ## Neue Funktionen
 
-### April 2024: 
+### September 2024: GoodWe + SunGrow
+Seit Version x.5.3 werden nun auch Wechselrichter von GoodWe (inkl. Batterieleistung) und SunGrow unterstützt.  
+<br><br>
+
+### April 2024: §14a EnWG
 Mit der neuen Version x.5.2 ist nun die "[§14a EnWG Konformität](https://steff393.github.io/wbec-site/docs/enwg.html)" aktivierbar. Hiermit lassen sich attraktive Rabatte auf die Netzentgelte erzielen.   
 <br><br>
 

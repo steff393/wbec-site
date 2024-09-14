@@ -40,6 +40,7 @@ Weitere Informationen finden sich auch im [Wiki](https://github.com/steff393/wbe
 - E3DC
 - SAX-Power Heimspeicher (mit EnFluRi-Sensor)
 - Goodwe mit Smartmeter und WiFi/LAN-Kit v2 (z.B. GW10KN-ET)
+- SunGrow
 
 ### Smartmeter (oder Speicher) per HTTP
 - Shelly 3EM
