@@ -29,6 +29,7 @@ Mit Hilfe von wbec kann dieser maximale Ladestrom jedoch an die aktuellen Gegebe
 Weitere Informationen finden sich auch im [Wiki](https://github.com/steff393/wbec/wiki/PV-%C3%9Cberschussladen) auf Github.  
 
 ### Kompatible Wechselrichter per Modbus-TCP
+Die Erreichbarkeit des Wechselrichters / Smart Meters kann vorab mit meinem kostenlosen Tool [wbecModbus](https://github.com/steff393/wbecModbus) überprüft werden.  
 - SolarEdge (z.B. SE7k, SE9k)
 - Fronius (z.B. Symo 17.5 + Fronius Smartmeter)
 - Kostal mit KSEM (Kostal Smart Energy Meter)
@@ -39,8 +40,10 @@ Weitere Informationen finden sich auch im [Wiki](https://github.com/steff393/wbe
 - Victron (z.B. Victron cerbo gx (inkl. Smartmeter Victron EM24 RS485, Wechselrichter Multiplus2 5000), Victron Easy Control GX)
 - E3DC
 - SAX-Power Heimspeicher (mit EnFluRi-Sensor)
-- Goodwe mit Smartmeter und WiFi/LAN-Kit v2 (z.B. GW10KN-ET)
+- Goodwe mit Smartmeter (z.B. GW10KN-ET, WiFi/LAN-Kit v2 oder [alternative Freischaltung](https://www.photovoltaikforum.com/thread/186135-goodwe-gw10k-et-sammelthread/?postID=3863978#post3863978))
+- Goodwe ohne Smartmeter (z.B. GW8KN-ET, WiFi/LAN-Kit v2 oder [alternative Freischaltung](https://www.photovoltaikforum.com/thread/186135-goodwe-gw10k-et-sammelthread/?postID=3863978#post3863978))
 - SunGrow
+- AlphaESS (z.B. Smile T10)
 
 ### Smartmeter (oder Speicher) per HTTP
 - Shelly 3EM
