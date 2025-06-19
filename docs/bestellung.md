@@ -15,7 +15,7 @@ Jedes Modul ist fertig programmiert und wurde an der Heidelberg Energy Control e
 {: .warning-title}
 > Achtung
 > 
-> Zwischen 12.06.2025 und 18.06.2025 erfolgt kein Versand. Bestellungen sind weiterhin möglich und werden ab dem 19.06.2025 versendet. Weitere wbecLan sind vermutlich erst im Juli wieder lieferbar. Bei Fragen bitte vorab Kontakt aufnehmen.  
+> Weitere wbecLan sind vermutlich erst im Juli wieder lieferbar.  
 
 |Produkt |Preis (inkl. MwSt & Versand) |Verfügbarkeit |
 |:-------|:----------------------------|:-------------|
