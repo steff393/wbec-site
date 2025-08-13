@@ -12,11 +12,6 @@ E-Mail: [wbec393@gmail.com](mailto:wbec393@gmail.com)
 
 Jedes Modul ist fertig programmiert und wurde an der Heidelberg Energy Control einzeln auf Funktion geprüft. Mit jedem Produkt wird eine 12-seitige Bedienungs- und Installationsanleitung als PDF geliefert.  
 
-{: .warning-title}
-> Achtung
-> 
-> Zwischen 06.08.2025 und 13.08.2025 erfolgt kein Versand. Bestellungen sind weiterhin möglich und werden ab dem 13.08.2025 versendet.  
-
 |Produkt |Preis (inkl. MwSt & Versand) |Verfügbarkeit |
 |:-------|:----------------------------|:-------------|
 |[wbecDemo](products\wbecDemo.html) (Testzeitraum bis 30.09.2025) <br>Günstiges Einstiegsmodell mit begrenzter Laufzeit | **25 Euro** | *auf Lager* |
