@@ -45,7 +45,7 @@ Folgende baugleiche Wallboxen sind ebenfalls kompatibel mit wbec:
 - Walther Werke Basic Evo Pro
 
 ## Kartenansicht
-wbec sorgt seit 2021 bereits bei über 900 Nutzern in ganz Deutschland für optimales Laden! Und täglich werden es mehr. Werde auch du einer davon und sichere dir jetzt dein [wbec-Modul](docs/bestellung.html)!
+wbec sorgt seit 2021 bereits bei über 1.000 Nutzern in ganz Deutschland für optimales Laden! Und täglich werden es mehr. Werde auch du einer davon und sichere dir jetzt dein [wbec-Modul](docs/bestellung.html)!
 <center>
 {% assign name = "wbecMap.png" %}
 {% assign nameBig = "wbecMapLarge.png" %}
