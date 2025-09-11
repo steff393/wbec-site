@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Impressum
-nav_order: 8
+nav_order: 9
 ---
 
 
@@ -42,3 +42,6 @@ Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Date
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. 
 
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
+
+### Markenhinweis
+Alle auf dieser Website genannten Marken, Warenzeichen, Produktnamen und Logos sind Eigentum der jeweiligen Rechteinhaber. Die Nennung erfolgt ausschließlich zu Identifikations- und Beschreibungszwecken und bedeutet nicht, dass eine Verbindung mit den Rechteinhabern besteht.

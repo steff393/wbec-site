@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Widerruf
-nav_order: 10
+nav_order: 11
 ---
 
 # Widerrufsrecht und Muster-Widerrufsformular
