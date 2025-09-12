@@ -32,7 +32,7 @@ Unsere Lösung ermöglicht die **drahtlose Anbindung per WLAN** – ganz ohne ba
 - Datenübertragung direkt oder über den Router
 
 <center>
-{% assign name = "goodwePower.png" %}
+{% assign name = "goodweWeb.png" %}
 <a href="{{ site.url }}{{ site.imgUrl }}{{ name }}"><img src="{{ site.url }}{{ site.imgUrl }}{{ name }}" width="{{ site.imgSize }}"></a>  
 </center> 
 <br><br>
