@@ -12,9 +12,14 @@ E-Mail: [wbec393@gmail.com](mailto:wbec393@gmail.com)
 
 Jedes Modul ist fertig programmiert und wurde an der Heidelberg Energy Control einzeln auf Funktion geprüft. Mit jedem Produkt wird eine 12-seitige Bedienungs- und Installationsanleitung als PDF geliefert.  
 
+{: .warning-title}
+> Achtung
+> 
+> Zwischen 04.10.2025 und 17.10.2025 erfolgt kein Versand. Bestellungen sind weiterhin möglich und werden ab dem 18.10.2025 versendet.  
+
 |Produkt |Preis (inkl. MwSt & Versand) |Verfügbarkeit |
 |:-------|:----------------------------|:-------------|
-|[wbecDemo](products\wbecDemo.html) (Testzeitraum bis 31.10.2025) <br>Günstiges Einstiegsmodell mit begrenzter Laufzeit | **25 Euro** | *auf Lager* |
+|[wbecDemo](products\wbecDemo.html) (Testzeitraum bis 30.11.2025) <br>Günstiges Einstiegsmodell mit begrenzter Laufzeit | **25 Euro** | *auf Lager* |
 |[wbecPro](products\wbecPro.html) <br>Standardversion mit WLAN                              | **120 Euro** | *auf Lager* |
 |[wbecLan](products\wbecLan.html) <br>Plug & Play mit Netzwerkanschluss                     | **190 Euro** | *auf Lager* |
 |[wbecPremium](products\wbecPremium.html) <br>Einfache Bedienung per Touch-Display und WLAN | **230 Euro** | *nur noch 1 vorrätig* |
