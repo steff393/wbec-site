@@ -44,6 +44,8 @@ Die Erreichbarkeit des Wechselrichters / Smart Meters kann vorab mit meinem kost
 - Goodwe ohne Smartmeter (z.B. GW8KN-ET, WiFi/LAN-Kit v2 oder [alternative Freischaltung](https://www.photovoltaikforum.com/thread/186135-goodwe-gw10k-et-sammelthread/?postID=3863978#post3863978))
 - SunGrow
 - AlphaESS (z.B. Smile T10)
+- Solarwatt 
+- FoxESS
 
 ### Smartmeter (oder Speicher) per HTTP
 - Shelly 3EM

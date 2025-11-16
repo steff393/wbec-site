@@ -2,7 +2,7 @@
 layout: default
 title: wbecRse
 parent: Produkte
-nav_order: 6
+nav_order: 7
 ---
 
 wbecRse ermöglicht, das Signal eines Rundsteuerempfängers (RSE) oder des Schaltkontakts einer Steuerbox über das normale Netzwerk (WLAN/LAN) an ein entferntes wbecPro, wbecLan oder wbecPremium zu übertragen.  

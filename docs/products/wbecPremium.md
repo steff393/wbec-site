@@ -2,7 +2,7 @@
 layout: default
 title: wbecPremium
 parent: Produkte
-nav_order: 3
+nav_order: 4
 ---
 
 Optimal bedienen lässt sich wbec auch in der Display-Variante. Somit kann der Ladestrom direkt eingestellt und die Werte wie die aktuelle Ladeleistung, etc. ausgelesen werden. In Kombination mit der PV-Funktion kann beispielsweise auch der Lademodus (Aus, PV, Min+PV) direkt am Display ausgewählt werden.   

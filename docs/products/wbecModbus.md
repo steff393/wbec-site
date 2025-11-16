@@ -2,7 +2,7 @@
 layout: default
 title: wbecModbus
 parent: Produkte
-nav_order: 5
+nav_order: 6
 ---
 
 Mit wbecModbus lässt sich vorab prüfen, ob der eigene Wechselrichter von wbec ausgelesen werden kann.

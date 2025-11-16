@@ -6,6 +6,12 @@ nav_order: 4
 
 ## Neue Funktionen
 
+### November 2025: Solarwatt + FoxESS
+Auch Wechselrichter von Solarwatt und FoxESS können per Modbus-TCP ausgelesen werden.  
+
+### Oktober 2025: wbecProS3
+Das neue [wbecProS3](products\wbecProS3.html) bietet doppelt soviel Flashspeicher wie das beliebte wbecPro und damit auch künftige Erweiterbarkeit mit neuen Funktionen.  
+
 ### September 2024: GoodWe + SunGrow
 Seit Version x.5.3 werden nun auch Wechselrichter von GoodWe (inkl. Batterieleistung) und SunGrow unterstützt.  
 <br><br>

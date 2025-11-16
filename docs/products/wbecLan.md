@@ -2,7 +2,7 @@
 layout: default
 title: wbecLan
 parent: Produkte
-nav_order: 2
+nav_order: 3
 ---
 
 Mit der Ethernet-Variante wbecLan ist jetzt echtes **Plug & Play** *ohne jede Konfiguration* möglich. wbecLan wird mit zwei Adern an die Heidelberg angeschlossen und kann per Netzwerkkabel (PoE) versorgt werden. Sekunden später kann man die Wallbox bereits steuern.  
