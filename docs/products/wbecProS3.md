@@ -1,6 +1,6 @@
 ---
 layout: default
-title: wbecPro
+title: wbecProS3
 parent: Produkte
 nav_order: 2
 ---
@@ -29,7 +29,7 @@ Um die Wallbox per WLAN zu erreichen, müsst ihr nur noch die Schalter in der Wa
 |Anbindung powerfox poweropti | möglich         | möglich         |
 |Touch-Display                | nein            | nein            |
 |RFID-Leser                   | möglich (extern)| möglich (extern)|
-|Flashspeicher                | 4MB             | 8MB (!)         |
+|Flashspeicher                | **4MB**         | **8MB (!)**     |
 |RAM                          | 520kB SRAM      | 520kB SRAM      |
 |künftige Erweiterbarkeit     | begrenzt        | begrenzt        |
 |zulässiger Temperaturbereich | 0°C bis 60°C    | 0°C bis 60°C    |
