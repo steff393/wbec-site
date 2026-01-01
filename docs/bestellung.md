@@ -12,9 +12,9 @@ E-Mail: [wbec393@gmail.com](mailto:wbec393@gmail.com)
 
 Jedes Modul ist fertig programmiert und wurde an der Heidelberg Energy Control einzeln auf Funktion geprüft. Mit jedem Produkt wird eine 12-seitige Bedienungs- und Installationsanleitung als PDF geliefert.  
 
-|Produkt |Preis (inkl. MwSt & Versand) |Verfügbarkeit |
+|Produkt |Preis (inkl. Versand) |Verfügbarkeit |
 |:-------|:----------------------------|:-------------|
-|[wbecDemo](products\wbecDemo.html) (Testzeitraum bis 31.01.2026) <br>Günstiges Einstiegsmodell mit begrenzter Laufzeit | **25 Euro** | *auf Lager* |
+|[wbecDemo](products\wbecDemo.html) (Testzeitraum bis 28.02.2026) <br>Günstiges Einstiegsmodell mit begrenzter Laufzeit | **25 Euro** | *auf Lager* |
 |[wbecPro](products\wbecPro.html) <br>Standardversion mit WLAN                              | **120 Euro** | *auf Lager* |
 |[wbecProS3](products\wbecProS3.html) **NEU** <br>Wie wbecPro, aber mit mehr Speicher       | **150 Euro** | *auf Lager* |
 |[wbecLan](products\wbecLan.html) <br>Plug & Play mit Netzwerkanschluss                     | **190 Euro** | *auf Lager* |
@@ -31,7 +31,7 @@ Falls ihr keine weiteren Fragen habt, könnt ihr euer wbec auch schnell und dire
 {% assign nameBig = "pp2.png" %}
 <a href="{{ site.url }}{{ site.imgUrl }}{{ nameBig }}"><img src="{{ site.url }}{{ site.imgUrl }}{{ name }}" width="{{ site.imgSize }}"></a>
 </center>  
-- Ich versende in der Regel am nächsten Tag und sende euch die Anleitung und [Widerrufsbelehrung](widerruf.html) per E-Mail zu. Auf Wunsch kann ich auch eine Rechnung (mit ausgewiesener USt.) ausstellen.
+- Ich versende in der Regel am nächsten Tag und sende euch die Anleitung und [Widerrufsbelehrung](widerruf.html) per E-Mail zu. Auf Wunsch kann ich auch eine Rechnung ausstellen (gemäß § 19 Abs. 1 UStG wird keine Umsatzsteuer ausgewiesen).
 - Falls mein Lagerbestand zu niedrig ist oder ich abwesend wäre, würde dies oben entsprechend vermerkt sein. 
 
 ## Bestellablauf - wero

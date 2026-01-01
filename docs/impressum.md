@@ -14,7 +14,7 @@ Ingenieurbüro Stefan Ferstl
 Hasenweg 7  
 92339 Beilngries  
 
-USt-IdNr.: DE433028170  
+W-IdNr.: DE433028170-00001  
 
 Vertreten durch: Stefan Ferstl
 
