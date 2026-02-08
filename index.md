@@ -18,6 +18,9 @@ Dadurch lassen sich oftmals jährliche Einsparungen von [300 Euro](docs/pvCalc.h
 
 Der Wallbox-Hersteller Heidelberg (jetzt Amperfied) empfiehlt wbec sogar im Blog [Clever laden](https://www.amperfied.de/de/clever-laden/blog/wbec-fuer-heidelberg-wallbox-energy-control-blog/){:target="_blank"}.
 
+{: .note-title }
+> [www.selbst-ableser.de](http://www.selbst-ableser.de) - weil deine Daten dir gehören!
+
 {: .new }
 > **NEU: §14a EnWG**  
 >
