@@ -11,7 +11,7 @@ Es wird einfach mittels Schraubklemmen mit dem Modbus-Anschluss der Wallbox verb
 
 Um die Wallbox per WLAN zu erreichen, müsst ihr nur noch die Schalter in der Wallbox richtig einstellen (s. Anleitung) und eure WLAN-Zugangsdaten eintragen.
 
-{: .note-title }
+{: .note }
 > Beim bisherigen wbecPro ist der Speicher (4MB) bereits zu 99,1% gefüllt (Stand Firmware 1.5.4). Dies begrenzt die zukünftige Erweiterbarkeit. Das neue [wbecProS3](wbecProS3.html) bietet nun doppelt so viel Flashspeicher (8MB) bei gleicher Funktionalität. 
 
 <center>
