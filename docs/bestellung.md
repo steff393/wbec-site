@@ -22,7 +22,7 @@ Jedes Modul ist fertig programmiert und wurde an der Heidelberg Energy Control e
 |[wbecDemo](products\wbecDemo.html) (Testzeitraum bis 30.04.2026) <br>Günstiges Einstiegsmodell mit begrenzter Laufzeit | **25 Euro** | *auf Lager* |
 |[wbecPro](products\wbecPro.html) <br>Standardversion mit WLAN                              | **120 Euro** | *auf Lager* |
 |[wbecProS3](products\wbecProS3.html) **NEU** <br>Wie wbecPro, aber mit mehr Speicher       | **140 Euro** | *auf Lager* |
-|[wbecLan](products\wbecLan.html) <br>Plug & Play mit Netzwerkanschluss                     | **180 Euro** | *auf Lager* |
+|[wbecLan](products\wbecLan.html) <br>Plug & Play mit Netzwerkanschluss                     | **180 Euro** | *ab 18.03.2026 wieder lieferbar* |
 |[wbecPremium](products\wbecPremium.html) <br>Einfache Bedienung per Touch-Display und WLAN | **220 Euro** | *nur noch 1 vorrätig* |
 |[$14a EnWG](enwg.html) <br>Aktivierung der Funktion | **50 Euro** | *verfügbar* |
 |[wbecRse](products\wbecRse.html) <br>Übermittelt das Signal des Rundsteuerempfängers (RSE) per WLAN an wbec | **20 Euro** | *auf Lager* |
