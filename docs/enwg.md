@@ -3,7 +3,7 @@ layout: default
 title: §14a EnWG
 nav_order: 5
 ---
-## $14a EnWG Konformität
+## §14a EnWG Konformität
 
 {: .new }
 > **Zusammenfassung**  
