@@ -46,12 +46,56 @@ Sie müssen für einen etwaigen Wertverlust der Waren nur aufkommen, wenn dieser
 
 (\*) Unzutreffendes streichen.
 
-## Vertrag widerrufen
+## Widerruf erklären
 
-Mit dem folgenden Button gelangen Sie zum Widerrufsformular.
-<p>
-  <a href="widerruf-formular.html"
-     style="display:inline-block;padding:12px 20px;background:#b00;
-            color:#fff;text-decoration:none;border-radius:4px;
-            font-weight:bold">Vertrag widerrufen</a>
-</p>
+<style>
+  form.widerruf{max-width:600px}
+  form.widerruf label{display:block;margin-top:1em}
+  form.widerruf input,form.widerruf textarea{
+    width:100%;padding:8px;box-sizing:border-box;font-size:1em}
+  form.widerruf .hp{position:absolute;left:-9999px}
+  form.widerruf button{margin-top:1.5em;padding:12px 20px;background:#b00;
+    color:#fff;border:0;border-radius:4px;font-weight:bold;
+    cursor:pointer;font-size:1em}
+  #ok,#err{margin-top:1em;padding:1em;border-radius:4px;max-width:600px}
+  #ok{background:#e6ffe6;border:1px solid #6c6}
+  #err{background:#ffe6e6;border:1px solid #c66}
+</style>
+
+<p>Hiermit widerrufe ich den von mir abgeschlossenen Vertrag über den Kauf der folgenden Ware:</p>
+
+<form id="f" class="widerruf">
+  <label>Name<input name="name" required></label>
+  <label>E-Mail (für die Eingangsbestätigung)
+    <input type="email" name="email" required></label>
+  <label>Vertrag / bestellte Ware
+    (z.&nbsp;B. Bestellnummer, Modell, Bestelldatum)
+    <textarea name="vertrag" rows="3" required></textarea></label>
+
+  <label class="hp">Bitte leer lassen<input name="website" tabindex="-1" autocomplete="off"></label>
+  <button type="submit">Widerruf bestätigen</button>
+</form>
+
+<div id="ok" hidden>Ihr Widerruf wurde übermittelt. Sie erhalten in Kürze eine Bestätigung per E-Mail.</div>
+<div id="err" hidden>Übermittlung fehlgeschlagen. Bitte später erneut versuchen oder formlos per E-Mail an
+     <a href="mailto:wbec393@gmail.com">wbec393@gmail.com</a> widerrufen.</div>
+
+<script>
+const ENDPOINT = "https://ferstl.site/widerruf";
+document.getElementById("f").addEventListener("submit", async e => {
+  e.preventDefault();
+  const data = Object.fromEntries(new FormData(e.target));
+  try {
+    const r = await fetch(ENDPOINT, {
+      method:"POST",
+      headers:{"Content-Type":"application/json"},
+      body: JSON.stringify(data)
+    });
+    if(!r.ok) throw new Error(r.status);
+    e.target.hidden = true;
+    document.getElementById("ok").hidden = false;
+  } catch {
+    document.getElementById("err").hidden = false;
+  }
+});
+</script>
