@@ -69,10 +69,10 @@ Sie müssen für einen etwaigen Wertverlust der Waren nur aufkommen, wenn dieser
   <label>E-Mail (für die Eingangsbestätigung)
     <input type="email" name="email" required></label>
   <label>Vertrag / bestellte Ware
-    (z.&nbsp;B. Bestellnummer, Modell, Bestelldatum)
+    (z.&nbsp;B. Modell, Bestelldatum)
     <textarea name="vertrag" rows="3" required></textarea></label>
-
   <label class="hp">Bitte leer lassen<input name="website" tabindex="-1" autocomplete="off"></label>
+  <br>Alle Felder sind Pflichtfelder. <br>
   <button type="submit">Widerruf bestätigen</button>
 </form>
 
