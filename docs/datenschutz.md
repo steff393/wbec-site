@@ -70,6 +70,22 @@ Die Bereitstellung Ihrer personenbezogenen Daten erfolgt freiwillig. Wir können
 ### SSL-Verschlüsselung
 Um die Sicherheit Ihrer Daten bei der Übertragung zu schützen, verwenden wir dem aktuellen Stand der Technik entsprechende Verschlüsselungsverfahren (z. B. SSL) über HTTPS.
 
+## Widerrufserklärung
+### Art und Zweck der Verarbeitung:
+Wenn Sie das Widerrufsformular verwenden, verarbeiten wir Ihren Namen, Ihre E-Mail-Adresse und die Vertragsangaben, damit wir Ihren Widerruf bearbeiten und Ihnen eine Eingangsbestätigung per E-Mail zusenden können. 
+
+### Rechtsgrundlage:
+Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO (vorvertragliche Maßnahmen / Vertragsabwicklung) sowie Art. 6 Abs. 1 lit. c DSGVO zur Erfüllung gesetzlicher Pflichten im Zusammenhang mit dem Widerrufsrecht.
+
+### Empfänger:
+Empfänger der Daten ist das Ingenieurbüro Stefan Ferstl sowie gegebenenfalls technische Dienstleister, insbesondere der E-Mail-Versanddienstleister (GMX).
+
+### Speicherdauer:
+Die Daten werden gelöscht, sobald sie für die Bearbeitung des Widerrufs und die gesetzlich erforderliche Nachweisführung nicht mehr erforderlich sind. Kommt ein Vertragsverhältnis zustande, gelten gegebenenfalls darüber hinaus zusätzliche gesetzliche Aufbewahrungsfristen.
+
+### Bereitstellung vorgeschrieben oder erforderlich:
+Die Angabe von Name, E-Mail-Adresse und Vertragsangaben ist für die Ausübung des Widerrufsrechts erforderlich. Ohne diese Informationen kann der Widerruf nicht bearbeitet werden.
+
 ## Webanalysedienst Trackboxx
 Wir nutzen auf unserer Seite den Webanalysedienst <a href="https://trackboxx.com/">Trackboxx</a>. Wir werten damit Besucherzugriffe statistisch aus und analysieren die Nutzung unseres Internetauftritts. Die Daten werden zum genannten Zweck anonymisiert auf einem Server in Deutschland gespeichert und unterliegen den Vorgaben der DSGVO.  
 
