@@ -45,3 +45,13 @@ Sie müssen für einen etwaigen Wertverlust der Waren nur aufkommen, wenn dieser
 - Datum
 
 (\*) Unzutreffendes streichen.
+
+## Vertrag widerrufen
+
+Mit dem folgenden Button gelangen Sie zum Widerrufsformular.
+<p>
+  <a href="widerruf-formular.html"
+     style="display:inline-block;padding:12px 20px;background:#b00;
+            color:#fff;text-decoration:none;border-radius:4px;
+            font-weight:bold">Vertrag widerrufen</a>
+</p>
