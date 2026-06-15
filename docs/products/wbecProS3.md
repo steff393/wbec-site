@@ -5,9 +5,7 @@ parent: Produkte
 nav_order: 2
 ---
 
-wbecProS3 ist der Nachfolger des beliebten wbecPro.  
-
-Beim bisherigen wbecPro ist der Speicher (4MB) bereits zu 99,1% gefüllt (Stand Firmware 1.5.4). Dies begrenzt die zukünftige Erweiterbarkeit. Das neue wbecProS3 bietet nun doppelt so viel Flashspeicher (8MB) bei gleicher Funktionalität. 
+wbecProS3 ist der Nachfolger des beliebten wbecPro. Es bietet doppelt so viel Flashspeicher (8MB) bei gleicher Funktionalität.  
 
 Es wird einfach mittels Schraubklemmen mit dem Modbus-Anschluss der Wallbox verbunden. Zusätzlich wird ein normales 12V-DC-Netzteil benötigt.
 
