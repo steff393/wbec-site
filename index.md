@@ -16,7 +16,7 @@ wbec ist die einfachste und schnellste Methode, um dynamisches [PV-Überschussla
 
 Dadurch lassen sich oftmals jährliche Einsparungen von [300 Euro](docs/pvCalc.html) oder mehr erzielen! 
 
-Der Wallbox-Hersteller Heidelberg (jetzt Amperfied) empfiehlt wbec sogar im Blog [Clever laden](https://www.amperfied.de/de/clever-laden/blog/wbec-fuer-heidelberg-wallbox-energy-control-blog/){:target="_blank"}.
+Der Wallbox-Hersteller Heidelberg (jetzt Amperfied) empfiehlt wbec sogar im Blog [Clever laden](https://web.archive.org/web/20260116192803/https://www.amperfied.de/2022/11/21/wbec-fuer-heidelberg-wallbox-energy-control-blog/){:target="_blank"}.
 
 {: .note }
 > Werbung: [www.selbst-ableser.de](http://www.selbst-ableser.de) - weil deine Daten dir gehören!
