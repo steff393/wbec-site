@@ -26,7 +26,8 @@ Der Energiemanager Emma von Huawei kann nun auch ausgelesen werden.
 <br><br>
 
 ### April 2026: Auto-Discovery für Home Assistant
-Über den Parameter cfgHaDiscovery=1 kann nun die Auto-Discovery für Home Assistant ausgelöst werden. wbec sendet dann automatisch per MQTT die relevanten Infos, so dass es von Home Assistant erkannt werden kann. 
+*Laborfunktion*:  
+Über den Parameter cfgHaDiscovery=1 kann nun die Auto-Discovery für Home Assistant ausgelöst werden. wbec sendet dann automatisch per MQTT die relevanten Infos, so dass es von Home Assistant erkannt werden kann.
 <br><br>
 
 ### März 2026: Push-Benachrichtigungen über ntfy.sh
