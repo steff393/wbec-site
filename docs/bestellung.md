@@ -17,9 +17,11 @@ Jedes Modul ist fertig programmiert und wurde an der Heidelberg Energy Control e
 |[wbecDemo](products\wbecDemo.html) (Testzeitraum bis 31.10.2026) <br>Günstiges Einstiegsmodell mit begrenzter Laufzeit | **25 Euro** | *auf Lager* |
 |[wbecPro](products\wbecPro.html) <br>Standardversion mit WLAN                              | **120 Euro** | *auf Lager* |
 |[wbecProS3](products\wbecProS3.html) **NEU** <br>Wie wbecPro, aber mit mehr Speicher       | **140 Euro** | *auf Lager* |
-|[wbecLan](products\wbecLan.html) <br>Plug & Play mit Netzwerkanschluss                     | **180 Euro** | *auf Lager* |
+|[wbecLan](products\wbecLan.html) <br>Plug & Play mit Netzwerkanschluss                     | **170 Euro** | *auf Lager* |
+|[wbecLanS3](products\wbecLan.html) **NEU**  <br>Wie wbecLan, aber mit mehr Speicher        | **190 Euro** | *auf Lager* |
 |[wbecPremium](products\wbecPremium.html) <br>Einfache Bedienung per Touch-Display und WLAN | **220 Euro** | *nur noch 1 vorrätig* |
 |[$14a EnWG](enwg.html) <br>Aktivierung der Funktion | **50 Euro** | *verfügbar* |
+|[Dynamischer Tarif](features.html) <br>Aktivierung der Funktion | **20 Euro** | *verfügbar* |
 |[wbecRse](products\wbecRse.html) <br>Übermittelt das Signal des Rundsteuerempfängers (RSE) per WLAN an wbec | **20 Euro** | *auf Lager* |
 
 Aufgrund neuer EU-Regelungen (PPWR) ist der Versand leider nur noch innerhalb Deutschlands möglich.  
@@ -42,7 +44,7 @@ Vorteil: Zahlung erfolgt in Echtzeit, aber ohne Drittanbieter.
 Empfänger: wbec393@gmail.com  
 
 ## Alternative Bezahlungsmethoden
-Alternativ könnt ihr mich auch gerne über [wbec393@gmail.com](mailto:wbec393@gmail.com) kontaktieren und per Überweisung bezahlen. Wenn ihr den Paypal Käuferschutz nutzen möchtet ("Waren und Dienstleistungen"), dann erhöht den Betrag entsprechend um die Paypal-Gebühren (0,35€ + 2,49% => wbecDemo: 26,00€; wbecPro: 123,42€; wbecProS3: 143,93€; wbecLan: 184,96€; wbecPremium: 225,98€; §14a EnWG: 51,64€, wbecRse: 20,85€).  
+Alternativ könnt ihr mich auch gerne über [wbec393@gmail.com](mailto:wbec393@gmail.com) kontaktieren und per Überweisung bezahlen. Wenn ihr den Paypal Käuferschutz nutzen möchtet ("Waren und Dienstleistungen"), dann erhöht den Betrag entsprechend um die Paypal-Gebühren (0,35€ + 2,49% => wbecDemo: 26,00€; wbecPro: 123,42€; wbecProS3: 143,93€; wbecLan: 174,70€; wbecLanS3: 195,21€; wbecPremium: 225,98€; §14a EnWG: 51,64€; Dyn. Tarif: 20,87€; wbecRse: 20,87€).  
 
 <br>
 

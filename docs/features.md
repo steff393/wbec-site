@@ -5,6 +5,34 @@ nav_order: 4
 ---
 
 ## Neue Funktionen
+### September 2026: Support für Dynamische Tarife
+wbec kann nun auf die Preisinformationen von aWATTar (DE/AT) und Tibber (*Laborfunktion*) zugreifen. Das ermöglicht es nur zu Laden, wenn die Stromkosten unter eine bestimmten Schwelle fallen oder gezielt z.B. die nächsten 4 günstigsten Stunden abzuwarten. Für Tibber ist ein Tibber-API-Token erforderlich. Die aWATTar-Preisinformationen lassen sich auch ohne Token abfragen.  
+*verfügbar in wbecPro(S3), wbecPremium - die Funktion erfordert eine separate [Aktivierung](bestellung.html)*  
+<center>
+{% assign name = "dynPrice.png" %}
+<a href="{{ site.url }}{{ site.imgUrl }}{{ name }}"><img src="{{ site.url }}{{ site.imgUrl }}{{ name }}" width="{{ site.imgSize }}"></a>  
+</center> 
+<br><br>
+
+### August 2026: Huawei Emma
+Der Energiemanager Emma von Huawei kann nun auch ausgelesen werden.
+<br><br>
+
+### Juni 2026: Neue Update-Seite
+<center>
+{% assign name = "update.png" %}
+<a href="{{ site.url }}{{ site.imgUrl }}{{ name }}"><img src="{{ site.url }}{{ site.imgUrl }}{{ name }}" width="{{ site.imgSize }}"></a>  
+</center> 
+<br><br>
+
+### April 2026: Auto-Discovery für Home Assistant
+Über den Parameter cfgHaDiscovery=1 kann nun die Auto-Discovery für Home Assistant ausgelöst werden. wbec sendet dann automatisch per MQTT die relevanten Infos, so dass es von Home Assistant erkannt werden kann. 
+<br><br>
+
+### März 2026: Push-Benachrichtigungen über ntfy.sh
+Ladebeginn und -ende können nun Push-Benachrichtigungen z.B. an das Smartphone auslösen. Hierfür wird [ntfy.sh](https://ntfy.sh/) genutzt.  
+*verfügbar in wbecPro(S3), wbecPremium*
+<br><br>
 
 ### November 2025: Solarwatt + FoxESS
 Auch Wechselrichter von Solarwatt und FoxESS können per Modbus-TCP ausgelesen werden.  

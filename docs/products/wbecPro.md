@@ -27,6 +27,9 @@ Um die Wallbox per WLAN zu erreichen, müsst ihr nur noch die Schalter in der Wa
 |Grundfunktionen              | ja              |
 |Web-Interface                | ja              |
 |PV-Überschussladen           | möglich         |
+|Dynamischer Tarif (*)        | möglich         |
+|§14a EnWG (*)                | möglich         |
+|Push-Benachrichtigung ntfy.sh| möglich         |
 |Anbindung powerfox poweropti | möglich         |
 |Touch-Display                | nein            |
 |RFID-Leser                   | möglich (extern)|
@@ -36,3 +39,5 @@ Um die Wallbox per WLAN zu erreichen, müsst ihr nur noch die Schalter in der Wa
 |zulässiger Temperaturbereich | 0°C bis 60°C    |
 |Spannungsversorgung          | 12V (9-24V)     |
 |Abmessungen (BxTxH)          | 58 x 24 x 12mm  |
+  
+(*) gegen gesonderte Aktivierung  

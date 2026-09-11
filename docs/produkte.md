@@ -10,6 +10,9 @@ has_children: true
 |Grundfunktionen              | ja              | ja              | ja              | ja                     |
 |Web-Interface                | ja              | ja              | ja              | ja                     |
 |PV-Überschussladen           | möglich         | möglich         | möglich         | möglich                |
+|Dynamischer Tarif (*)        | möglich         | möglich         | nein            | möglich                |
+|§14a EnWG (*)                | möglich         | möglich         | möglich         | möglich                |
+|Push-Benachrichtigung ntfy.sh| möglich         | möglich         | nein            | möglich                |
 |Anbindung powerfox poweropti | möglich         | möglich         | nein            | möglich                |
 |Touch-Display                | nein            | nein            | nein            | ja, 42 x 31 mm (2.0'') |
 |RFID-Leser                   | möglich (extern)| möglich (extern)| nein            | nein                   |
@@ -19,3 +22,5 @@ has_children: true
 |zulässiger Temperaturbereich | 0°C bis 60°C    | 0°C bis 60°C    | 0°C bis 60°C    | 10°C bis 60°C          |
 |Spannungsversorgung          | 12V (9-24V)     | 12V (9-24V)     | PoE oder 12V    | 5V USB                 |
 |Abmessungen (BxTxH)          | 58 x 24 x 12mm  | 58 x 24 x 12mm  | 98 x 24 x 20mm  | 58 x 58 x 42mm (zzgl. Befestigungslaschen und Kabel) |
+  
+(*) gegen gesonderte Aktivierung  

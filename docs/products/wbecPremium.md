@@ -19,6 +19,9 @@ Die Spannungsversorgung erfolgt per USB (Handyladegerät o.ä. erforderlich).
 |Grundfunktionen              | ja                     |
 |Web-Interface                | ja                     |
 |PV-Überschussladen           | möglich                |
+|Dynamischer Tarif (*)        | möglich                |
+|§14a EnWG (*)                | möglich                |
+|Push-Benachrichtigung ntfy.sh| möglich                |
 |Anbindung powerfox poweropti | möglich                |
 |Touch-Display                | ja, 42 x 31 mm (2.0'') |
 |RFID-Leser                   | nein                   |
@@ -28,3 +31,5 @@ Die Spannungsversorgung erfolgt per USB (Handyladegerät o.ä. erforderlich).
 |zulässiger Temperaturbereich | 10°C bis 60°C          |
 |Spannungsversorgung          | 5V USB                 |
 |Abmessungen (BxTxH)          | 58 x 58 x 42mm (zzgl. Befestigungslaschen und Kabel) |
+  
+(*) gegen gesonderte Aktivierung  
