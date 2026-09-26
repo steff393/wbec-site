@@ -81,7 +81,7 @@ Sie müssen für einen etwaigen Wertverlust der Waren nur aufkommen, wenn dieser
      <a href="mailto:wbec393@gmail.com">wbec393@gmail.com</a> widerrufen.</div>
 
 <script>
-const ENDPOINT = "https://ferstl.site/widerruf";
+const ENDPOINT = "https://ibferstl.de/widerruf";
 document.getElementById("f").addEventListener("submit", async e => {
   e.preventDefault();
   const data = Object.fromEntries(new FormData(e.target));
