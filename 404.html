@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<title>wbec ist umgezogen</title>
+<script>
+  var b = "/wbec-site", p = location.pathname;
+  if (p.indexOf(b) === 0) p = p.slice(b.length);
+  location.replace("https://wbec.ibferstl.de" + (p || '/') + location.search + location.hash);
+</script>
+</head>
+<body>
+<p>Die wbec-Homepage ist umgezogen: <a href="https://wbec.ibferstl.de/">https://wbec.ibferstl.de/</a></p>
+</body>
+</html>
